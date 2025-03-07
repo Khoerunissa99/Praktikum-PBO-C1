@@ -1,3 +1,8 @@
+// Nama : Khoerunissa Billah Wahyu Sarbini
+// NIM  : 24060123140178
+// Lab : C1
+// File : Asersi2.java
+
 class Lingkaran{
     private double jariJari;
     public Lingkaran(double jariJari){
