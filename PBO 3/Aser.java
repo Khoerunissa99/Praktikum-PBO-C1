@@ -1,3 +1,8 @@
+// Nama : Khoerunissa Billah Wahyu Sarbini
+// NIM  : 24060123140178
+// Lab : C1
+// File : Aser.java
+
 public class Aser{
     public static void main(String[] args) {
         int x=0;
