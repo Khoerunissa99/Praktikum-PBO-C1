@@ -10,7 +10,7 @@ public class ExceptionOnArray {
 
         try {
             arrayInteger[2] = 11;
-            arrayInteger[3] = 10;
+            arrayInteger[4] = 10;
         } catch (ArrayIndexOutOfBoundsException exception) {
             exception.printStackTrace();
         } finally {
